@@ -1,0 +1,29 @@
+<svg width="560" height="170" viewBox="0 0 560 170" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orange price-drop chart line -->
+  <path d="M 89,32 L 118,30 L 130,30 L 146,63 L 153,44 L 165,78 L 170,104"
+        fill="none" stroke="#E8700A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Watch face circle -->
+  <circle cx="187" cy="121" r="24" fill="#ffffff" stroke="#E8700A" stroke-width="4"/>
+  <!-- Hour hand -->
+  <line x1="187" y1="121" x2="180" y2="110" stroke="#2d2d2d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Minute hand -->
+  <line x1="187" y1="121" x2="198" y2="111" stroke="#2d2d2d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Center dot -->
+  <circle cx="187" cy="121" r="2.5" fill="#2d2d2d"/>
+
+  <!-- "dr" -->
+  <text x="89" y="148"
+        font-family="system-ui,-apple-system,'Helvetica Neue',sans-serif"
+        font-size="70" font-weight="700" letter-spacing="-1" fill="#2d2d2d">dr</text>
+
+  <!-- "p" -->
+  <text x="212" y="148"
+        font-family="system-ui,-apple-system,'Helvetica Neue',sans-serif"
+        font-size="70" font-weight="700" letter-spacing="-1" fill="#2d2d2d">p</text>
+
+  <!-- "watch" -->
+  <text x="260" y="148"
+        font-family="system-ui,-apple-system,'Helvetica Neue',sans-serif"
+        font-size="70" font-weight="700" letter-spacing="-1" fill="#2d2d2d">watch</text>
+</svg>
